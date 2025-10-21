@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tddProject.dir/main.cpp.o -o tddProject/binaries/tddProject  -Wl,-rpath,/home/misha/TDD-sdr/build-debug/TestTask/libs/printer TestTask/libs/printer/libPrinter.so 

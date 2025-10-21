@@ -1,0 +1,3 @@
+[submodule "TestTask/sdr-ifaces"]
+	path = TestTask/sdr-ifaces
+	url = https://github.com/Matejzjanova/sdr-and-transfer-ifacess
