@@ -9,12 +9,6 @@
 /home/misha/TDD-sdr/build-debug/googletests/gtest/CMakeFiles/test.dir
 /home/misha/TDD-sdr/build-debug/googletests/gtest/CMakeFiles/edit_cache.dir
 /home/misha/TDD-sdr/build-debug/googletests/gtest/CMakeFiles/rebuild_cache.dir
-/home/misha/TDD-sdr/build-debug/TestTask/libs/printer/CMakeFiles/Printer.dir
-/home/misha/TDD-sdr/build-debug/TestTask/libs/printer/CMakeFiles/Printer_t.dir
-/home/misha/TDD-sdr/build-debug/TestTask/libs/printer/CMakeFiles/Printer_tconf.dir
-/home/misha/TDD-sdr/build-debug/TestTask/libs/printer/CMakeFiles/test.dir
-/home/misha/TDD-sdr/build-debug/TestTask/libs/printer/CMakeFiles/edit_cache.dir
-/home/misha/TDD-sdr/build-debug/TestTask/libs/printer/CMakeFiles/rebuild_cache.dir
 /home/misha/TDD-sdr/build-debug/TestTask/libs/sdr-ifaces/CMakeFiles/test.dir
 /home/misha/TDD-sdr/build-debug/TestTask/libs/sdr-ifaces/CMakeFiles/edit_cache.dir
 /home/misha/TDD-sdr/build-debug/TestTask/libs/sdr-ifaces/CMakeFiles/rebuild_cache.dir

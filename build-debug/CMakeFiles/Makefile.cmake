@@ -8,9 +8,6 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
   "/home/misha/TDD-sdr/CMakeLists.txt"
-  "/home/misha/TDD-sdr/TestTask/libs/printer/CMakeLists.txt"
-  "/home/misha/TDD-sdr/TestTask/libs/printer/test/config/conf.cmake"
-  "/home/misha/TDD-sdr/TestTask/libs/printer/unittest.cmake"
   "/home/misha/TDD-sdr/TestTask/libs/sdr-ifaces/CMakeLists.txt"
   "/home/misha/TDD-sdr/TestTask/libs/sdr-ifaces/rtlsdr_control/CMakeLists.txt"
   "/home/misha/TDD-sdr/TestTask/libs/sdr-ifaces/sdr_emulator/CMakeLists.txt"
@@ -73,7 +70,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "googletests/CMakeFiles/CMakeDirectoryInformation.cmake"
   "googletests/gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
-  "TestTask/libs/printer/CMakeFiles/CMakeDirectoryInformation.cmake"
   "TestTask/libs/sdr-ifaces/CMakeFiles/CMakeDirectoryInformation.cmake"
   "TestTask/libs/sdr-ifaces/transfer_interface/CMakeFiles/CMakeDirectoryInformation.cmake"
   "TestTask/libs/sdr-ifaces/sdr_emulator/CMakeFiles/CMakeDirectoryInformation.cmake"
@@ -85,9 +81,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/distclean.dir/DependInfo.cmake"
   "googletests/gtest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "TestTask/libs/printer/CMakeFiles/Printer.dir/DependInfo.cmake"
-  "TestTask/libs/printer/CMakeFiles/Printer_t.dir/DependInfo.cmake"
-  "TestTask/libs/printer/CMakeFiles/Printer_tconf.dir/DependInfo.cmake"
   "TestTask/libs/sdr-ifaces/sdr_emulator/CMakeFiles/emulator_test.dir/DependInfo.cmake"
   "TestTask/libs/sdr-ifaces/rtlsdr_control/CMakeFiles/rtlsdr_test.dir/DependInfo.cmake"
   )

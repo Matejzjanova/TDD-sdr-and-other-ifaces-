@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
+  "/home/misha/TDD-sdr/tddProject/binaries/lib/libPrinter.pdb"
+  "/home/misha/TDD-sdr/tddProject/binaries/lib/libPrinter.so"
   "CMakeFiles/Printer.dir/source/printer.cpp.o"
   "CMakeFiles/Printer.dir/source/printer.cpp.o.d"
-  "libPrinter.pdb"
-  "libPrinter.so"
 )
 
 # Per-language clean rules from dependency scanning.

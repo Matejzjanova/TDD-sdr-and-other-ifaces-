@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/misha/TDD-sdr/build-debug/TestTask/libs/sdr-ifaces/sdr_emulator -I/home/misha/TDD-sdr/TestTask/libs/sdr-ifaces/sdr_emulator -I/home/misha/TDD-sdr/TestTask/libs/sdr-ifaces/sdr_emulator/include/sdr_emulator -I/home/misha/TDD-sdr/TestTask/libs/sdr-ifaces/sdr_rf_interface/include -I/home/misha/TDD-sdr/TestTask/libs/sdr-ifaces/transfer_interface/include
 
-CXX_FLAGS = -std=gnu++20 -DGTEST_HAS_PTHREAD=1
+CXX_FLAGS = -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1
 

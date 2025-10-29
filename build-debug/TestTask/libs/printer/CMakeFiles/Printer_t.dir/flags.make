@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = -I/home/misha/TDD-sdr/build-debug/TestTask/libs/printer -I/home/misha/TDD-sdr/TestTask/libs/printer -I/home/misha/TDD-sdr/TestTask/libs/printer/include -I/home/misha/TDD-sdr/googletests/gtest/gtest/include -I/home/misha/TDD-sdr/googletests/gtest/gmock/include
 
-CXX_FLAGS = 
+CXX_FLAGS = -g
 

@@ -6,5 +6,5 @@ CXX_DEFINES = -DPrinter_EXPORTS
 
 CXX_INCLUDES = -I/home/misha/TDD-sdr/build-debug/TestTask/libs/printer -I/home/misha/TDD-sdr/TestTask/libs/printer -I/home/misha/TDD-sdr/TestTask/libs/printer/include -I/home/misha/TDD-sdr/TestTask/libs/printer/lib -I/home/misha/TDD-sdr/TestTask/libs/printer/include/Printer
 
-CXX_FLAGS = -fPIC
+CXX_FLAGS = -g -fPIC
 

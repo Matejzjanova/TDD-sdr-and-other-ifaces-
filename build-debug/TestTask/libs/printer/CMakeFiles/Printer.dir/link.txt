@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC -shared -Wl,-soname,libPrinter.so -o libPrinter.so CMakeFiles/Printer.dir/source/printer.cpp.o 
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libPrinter.so -o /home/misha/TDD-sdr/tddProject/binaries/lib/libPrinter.so CMakeFiles/Printer.dir/source/printer.cpp.o 

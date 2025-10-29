@@ -6,5 +6,5 @@ CXX_DEFINES = -Dgtest_EXPORTS
 
 CXX_INCLUDES = -I/home/misha/TDD-sdr/build-debug/googletests/gtest -I/home/misha/TDD-sdr/googletests/gtest -I/home/misha/TDD-sdr/googletests/gtest/gmock/include -I/home/misha/TDD-sdr/googletests/gtest/gmock -I/home/misha/TDD-sdr/googletests/gtest/gtest -I/home/misha/TDD-sdr/googletests/gtest/gtest/include
 
-CXX_FLAGS = -std=gnu++11 -fPIC
+CXX_FLAGS = -g -std=gnu++11 -fPIC
 

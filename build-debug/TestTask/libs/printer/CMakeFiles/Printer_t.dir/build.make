@@ -108,8 +108,8 @@ Printer_t_EXTERNAL_OBJECTS =
 test/Printer_t: TestTask/libs/printer/CMakeFiles/Printer_t.dir/test/main.cpp.o
 test/Printer_t: TestTask/libs/printer/CMakeFiles/Printer_t.dir/test/printer_test.cpp.o
 test/Printer_t: TestTask/libs/printer/CMakeFiles/Printer_t.dir/build.make
-test/Printer_t: TestTask/libs/printer/libPrinter.so
-test/Printer_t: googletests/gtest/libgtest.so
+test/Printer_t: /home/misha/TDD-sdr/tddProject/binaries/lib/libPrinter.so
+test/Printer_t: /home/misha/TDD-sdr/tddProject/binaries/lib/libgtest.so
 test/Printer_t: TestTask/libs/printer/CMakeFiles/Printer_t.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/misha/TDD-sdr/build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable ../../../test/Printer_t"
 	cd /home/misha/TDD-sdr/build-debug/TestTask/libs/printer && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Printer_t.dir/link.txt --verbose=$(VERBOSE)

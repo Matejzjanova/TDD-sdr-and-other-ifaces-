@@ -15,7 +15,6 @@ endif()
 if(UNITTEST)
   add_subdirectory(googletests/)
 endif()
-add_subdirectory(TestTask/libs/printer)
 add_subdirectory(TestTask/libs/sdr-ifaces)
 
 if(UNITTEST)

@@ -153,45 +153,6 @@ gtest/fast:
 .PHONY : gtest/fast
 
 #=============================================================================
-# Target rules for targets named Printer
-
-# Build rule for target.
-Printer: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Printer
-.PHONY : Printer
-
-# fast build rule for target.
-Printer/fast:
-	$(MAKE) $(MAKESILENT) -f TestTask/libs/printer/CMakeFiles/Printer.dir/build.make TestTask/libs/printer/CMakeFiles/Printer.dir/build
-.PHONY : Printer/fast
-
-#=============================================================================
-# Target rules for targets named Printer_t
-
-# Build rule for target.
-Printer_t: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Printer_t
-.PHONY : Printer_t
-
-# fast build rule for target.
-Printer_t/fast:
-	$(MAKE) $(MAKESILENT) -f TestTask/libs/printer/CMakeFiles/Printer_t.dir/build.make TestTask/libs/printer/CMakeFiles/Printer_t.dir/build
-.PHONY : Printer_t/fast
-
-#=============================================================================
-# Target rules for targets named Printer_tconf
-
-# Build rule for target.
-Printer_tconf: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 Printer_tconf
-.PHONY : Printer_tconf
-
-# fast build rule for target.
-Printer_tconf/fast:
-	$(MAKE) $(MAKESILENT) -f TestTask/libs/printer/CMakeFiles/Printer_tconf.dir/build.make TestTask/libs/printer/CMakeFiles/Printer_tconf.dir/build
-.PHONY : Printer_tconf/fast
-
-#=============================================================================
 # Target rules for targets named emulator_test
 
 # Build rule for target.
@@ -226,10 +187,7 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... test"
-	@echo "... Printer_tconf"
 	@echo "... distclean"
-	@echo "... Printer"
-	@echo "... Printer_t"
 	@echo "... emulator_test"
 	@echo "... gtest"
 	@echo "... rtlsdr_test"
